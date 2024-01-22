@@ -16,7 +16,7 @@ https://github.com/shotnothing/pylemon8.git
 python setup.py install
 ```
 
-### Usage
+### Example Usage
 ```python
 from lemon8 import Lemon8
 
