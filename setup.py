@@ -14,7 +14,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/shotnothing/pylemon8",
-    download_url='WIP',
+    download_url='https://github.com/shotnothing/pylemon8',
     keywords=[
         'python', 
         'lemon8', 

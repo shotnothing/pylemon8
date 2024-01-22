@@ -7,7 +7,7 @@ if __name__ == "__main__":
     lemon8 = Lemon8()
     with open('people.csv', 'w', newline='', encoding='utf-8') as output_file:
         dict_writer = csv.DictWriter(output_file, keys, extrasaction='ignore')
-        for n in tqdm.tqdm(range(1000)):
+        for n in tqdm.tqdm(range(10)):
             try:
                 to_csv = lemon8.feed('foryou').get_items() 
                 if n == 0:
