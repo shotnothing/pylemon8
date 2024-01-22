@@ -6,7 +6,7 @@ with open("README.md", "r") as f:
 setuptools.setup(
     name="pylemon8",
     packages=setuptools.find_packages(),
-    version="0.1.0",
+    version="0.1.1",
     license='MIT',
     author="Saw Jing Wen",
     author_email="shotnothinggg@gmail.com",

@@ -91,7 +91,7 @@ class User:
         return self.get_forced()
     
     def get_profile_page(self, use_cached=True):
-        '''Returns a tuple of the user's profile page and the user's details.
+        '''Returns a tuple of the user's profile page. Will contain data such as the user's details as well as recent posts.
         Args:
             use_cached (bool): Whether to use the cached version of the profile page. Defaults to True.
         '''
