@@ -1,6 +1,6 @@
-# Lemon8 wrapper in Python
+# Lemon8 Wrapper for Python
 
-This is an unofficial wrapper for the Lemon8 API in Python. 
+A zestful Python library for integrating with the Lemon8 API, providing an intuitive interface for developers to access the Lemon8 social media platform.
     
 ## Getting Started
     
