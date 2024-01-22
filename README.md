@@ -1,6 +1,6 @@
 # Lemon8 Wrapper for Python
 
-A zestful Python library for integrating with the Lemon8 API, providing an intuitive interface for developers to access the Lemon8 social media platform.
+A lightweight, zestful Python library for integrating with the Lemon8 API, providing an intuitive interface for developers to access the Lemon8 social media platform.
     
 ## Getting Started
     
