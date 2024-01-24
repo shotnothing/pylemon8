@@ -106,5 +106,3 @@ class User:
         '''
         return json.loads(self.get_profile_page(use_cached=use_cached)[0])[f'$UserDetailV2+{self.userId}']
     
-
-pprint.pprint(Lemon8().user('bibipew').get_details(), indent=1)
